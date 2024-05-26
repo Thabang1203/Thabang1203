@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any project that will utilize my skillset and help me grow as a individual
 - 📫 You can reach me @ My Linkedin Profile:
 linkedin.com/in/thabang-norman-lesotho-525024232
+
+
 Email:
 thabangnormanlesotho@gmail.com
 datascienceportfol.io/lesothothabangnorman (Portfolio)
