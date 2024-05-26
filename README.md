@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lesotho Thabang Norman @Thabang1203
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently an aspiring data analyst looking for internship or entry level jobs to upskill myself and become my best version as a data analyst
-- 💞️ I’m looking to collaborate on any project that will utilize my skillset and help me grow as a individual
+- 💞️ I’m looking to collaborate on any project or entry level jobs that will utilize my skillset and help me grow as a individual
 - 📫 You can reach me @ My Linkedin Profile:
 linkedin.com/in/thabang-norman-lesotho-525024232
 
