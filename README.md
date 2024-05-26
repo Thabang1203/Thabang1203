@@ -5,9 +5,9 @@
 - 📫 You can reach me @ My Linkedin Profile:
 linkedin.com/in/thabang-norman-lesotho-525024232
 
-
 Email:
 thabangnormanlesotho@gmail.com
+
 datascienceportfol.io/lesothothabangnorman (Portfolio)
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: Knowledge is power 
