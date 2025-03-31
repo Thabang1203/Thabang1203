@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thabang Norman Lesotho</h1>
 <h3 align="center">Aspiring Data Analyst from South Africa currently residing in Durban and I'm willing to relocate</h3>
 
-- 🌱 I’m a recent graduate at University of Fort Hare and ORT SA in **Introduction to Big Data Analytics**
+- 🌱 I’m a recent graduate at University of Fort Hare in **Management and Commerce in Information Systems** and at ORT SA in **Introduction to Big Data Analytics**
 
 - 👨‍💻 All of my projects are available at [github.com/Thabang1203](https://github.com/Thabang1203)
 
