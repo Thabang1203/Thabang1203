@@ -17,9 +17,9 @@
 🔗 **All My Projects**: [Check Out My GitHub](https://github.com/Thabang1203)
 
 #### Featured Projects:
-- 📊 **Customer Insights Dashboard** (Power BI & SQL) – Interactive dashboard for customer segmentation & trends.
-- 📈 **Sales Forecasting Model** (Python & Machine Learning) – Predicting future sales with time-series analysis.
-- 🏆 **Data Cleaning & Wrangling** (SQL & Pandas) – Transforming raw messy datasets into structured insights.
+- 📊 **SQL-Assessment-INVENTORY-MANAGEMENT-SYSTEM-_10.03.2025(SQL) -  Assesment from ORT SA.
+- 📈 **Task-1-YouTube-Streamer-Analysis** (Python) – Project to perform a comprehensive analysis of the dataset to extract insights about the top YouTube content creators.
+- 🏆 **Power BI Dashboard Creation Terrorism Database Dataset** (PowerBI) – Transforming raw messy datasets into structured insights.
 
 ---
 ### 📬 Connect With Me
