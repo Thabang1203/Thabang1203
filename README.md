@@ -11,14 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank">
+<a href="https://www.linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer"></a>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="thabang norman lesotho" height="30" width="40" />
 </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> </a> 
+<a href="https://www.linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/> </a> 
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="apache cassandra" width="40" height="40"/> </a> 
