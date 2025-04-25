@@ -19,7 +19,7 @@
 #### Featured Projects:
 - 📊 **SQL-Assessment-INVENTORY-MANAGEMENT-SYSTEM-_10.03.2025(SQL) -  Assesment from ORT SA.
 - 📈 **Task-1-YouTube-Streamer-Analysis** (Python) – Project to perform a comprehensive analysis of the dataset to extract insights about the top YouTube content creators.
-- 🏆 **Power BI Dashboard Creation Terrorism Database Dataset** (PowerBI) – Transforming raw messy datasets into structured insights.
+- 🏆 **Power BI Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily transactions, and current inventory levels at each location. 
 
 ---
 ### 📬 Connect With Me
