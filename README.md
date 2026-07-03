@@ -5,33 +5,31 @@
 
 <div align="center">
 
-
-
 # Hi 👋 I'm Thabang Norman Lesotho
 
-### 💻 BCom Information Systems  • Service Desk Analyst • Technical Support • AI Enthusiast  
+### 💻 BCom Information Systems • Service Desk Analyst • Technical Support • AI Enthusiast
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Information+Systems;Service+Desk;Technical+Support;Zendesk+Support;AI+Bootcamp;Problem+Solver;Always+Learning+🚀"/>
+https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Information+Systems;Service+Desk;Technical+Support;Zendesk+Support;AI+Bootcamp;Problem+Solver;Always+Learning+🚀
 </p>
 
 <p align="center">
 
 <a href="mailto:thabangnormanlesotho@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/thabang-norman-lesotho-525024232">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Thabang1203">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+https://github.com/Thabang1203">
+img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Thabang1203&label=Profile+Views&color=00C853&style=for-the-badge"/>
+ghpvc/?username=Thabang1203&label=Profile+Views&color=00C853&style=for-the-badge"/>
 
 </div>
 
@@ -49,13 +47,14 @@
 
 I enjoy helping people solve technical problems and creating solutions that improve user experiences. My current focus is Service Desk operations, Zendesk, Technical Support, AI-powered automation, and data-driven decision making.
 
-I believe great IT support combines:
+### Core Strengths
 
-- Excellent communication
-- Strong technical troubleshooting
-- Patience
-- Continuous learning
-- Customer-first thinking
+- Excellent Communication
+- Technical Troubleshooting
+- Patience & Empathy
+- Customer-First Mindset
+- Continuous Learning
+- Problem Solving
 
 ---
 
@@ -71,74 +70,88 @@ I believe great IT support combines:
 
 ---
 
-# 💻 Technical Skills
-
-## 🎧 Service Desk
-
-- Zendesk
-- Ticket Management
-- Ticket Triage
-- SLA Compliance
-- Knowledge Base
-- Macros & Automations
-- Incident Escalation
-- Customer Communication
-
----
-
-## 🛠️ Technical Support
-
-- Windows Troubleshooting
-- Software Installation
-- Hardware Support
-- Remote Support
-- Basic Networking
-- Documentation
-- Active Directory (Learning)
-- Microsoft 365 (Learning)
-
----
-
-## 📊 Data Analytics
-
-- SQL
-- Python
-- Power BI
-- Excel
-- Pandas
-- NumPy
-
----
-
-## 🤖 AI
-
-- Prompt Engineering
-- Generative AI
-- AI Automation
-- AI Chatbots
-- AI for Technical Support
-
----
-
 # 🧰 Languages & Tools
 
-<p align="center">
+### 🎧 Service Desk
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode"/>
+<p>
+
+.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ticket_Management-00C853?style=for-the-badge"/>
+img.shields.io/badge/Ticket_Triage-00C853?style=for-the-badge"/>
+https://img.shields.io/badge/SLA_Compliance-00C853?style=for-the-badge"/>
+/Knowledge_Base-00C853?style=for-the-badge"/>
+/Incident_Escalation-00C853?style=for-the-badge"/>
+/badge/Customer_Communication-00C853?style=for-the-badge"/>
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk"/>
+### 🛠 Technical Support
 
-<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
+<p>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/L1_Troubleshooting-007ACC?style=for-the-badge"/>
+https://img.shields.io/badge/Windows_Support-007ACC?style=for-the-badge
+https://img.shields.io/badge/Hardware_&_Software-007ACC?style=for-the-badge
+_Networking-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Remote_Support-007ACC?style=for-the-badge"/>
+img.shields.io/badge/Documentation-007ACC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+---
+
+### 📊 Data & Reporting
+
+<p>
+
+/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+### 🤖 AI
+
+<p>
+
+ields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
+/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+/AI_Automation-FF6F00?style=for-the-badge"/>
+AI_Chatbots-FF6F00?style=for-the-badge"/>
+_for_IT_Support-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 💻 Development
+
+<p>
+
+i=python,html,css,javascript,git,github,vscode"/>
+
+</p>
+
+---
+
+### 🚀 Work Ethic
+
+<p>
+
+<img src="https://img.shields.io/badge/Meets_Deadlines-00C853?style=for-the-badge"/>
+ungry_to_Learn-00C853?style=for-the-badge"/>
+achable-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reliable-00C853?style=for-the-badge"/>
+.shields.io/badge/Positive_Attitude-00C853?style=for-the-badge"/>
+/badge/Growth_Mindset-00C853?style=for-the-badge"/>
 
 </p>
 
@@ -158,9 +171,7 @@ A personal learning dashboard built during the CAPACITI AI Bootcamp.
 - Progress Tracking
 - Topic Completion
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
@@ -176,9 +187,7 @@ Interactive AI learning assistant.
 - Offline Support
 - Learning Modules
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
@@ -234,23 +243,15 @@ An AI-powered platform that supports food security and empowers farming communit
 
 # 🏆 Achievements
 
-🥇 People's Choice Award
+🥇 **People's Choice Award** — Naspers AI Challenge
 
-Naspers AI Challenge
+🌱 **AgriSense AI**
 
-🌱 AgriSense AI
+🎓 **Victor Daitz Big Data Analytics Programme Graduate**
 
----
+🎓 **IBM Prompt Engineering Basics**
 
-🎓 Victor Daitz Big Data Analytics Programme Graduate
-
----
-
-🎓 IBM Prompt Engineering Basics
-
----
-
-🎓 Coursera Introduction to Artificial Intelligence
+🎓 **Coursera Introduction to Artificial Intelligence**
 
 ---
 
@@ -267,9 +268,9 @@ Naspers AI Challenge
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thabang1203&show_icons=true&theme=github_dark&hide_border=true"/>
+https://github-readme-stats.vercel.app/api?username=Thabang1203&show_icons=true&theme=github_dark&hide_border=true
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabang1203&layout=compact&theme=github_dark&hide_border=true"/>
+-readme-stats.vercel.app/api/top-langs/?username=Thabang1203&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -279,7 +280,7 @@ Naspers AI Challenge
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thabang1203&theme=github-dark-blue&hide_border=true"/>
+ats.herokuapp.com/?user=Thabang1203&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -289,7 +290,7 @@ Naspers AI Challenge
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Thabang1203&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
+rophy.vercel.app/?username=Thabang1203&theme=matrix&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -297,7 +298,7 @@ Naspers AI Challenge
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thabang1203&theme=github-dark)](https://github.com/Thabang1203)
+https://github-readme-activity-graph.vercel.app/graph?username=Thabang1203&theme=github-dark](https://github.com/Thabang1203)
 
 ---
 
@@ -305,7 +306,7 @@ Naspers AI Challenge
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Thabang1203/Thabang1203/output/github-contribution-grid-snake-dark.svg"/>
+.githubusercontent.com/Thabang1203/Thabang1203/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -325,7 +326,7 @@ Naspers AI Challenge
 
 # ⚡ Fun Facts
 
-💬 Ask me about Service Desk, AI, or Data Analytics
+💬 Ask me about Service Desk, AI, Technical Support, or Data Analytics
 
 📚 I love learning new technologies
 
@@ -333,9 +334,9 @@ Naspers AI Challenge
 
 📊 I enjoy turning data into meaningful insights
 
-☕ Coffee + Music = Better debugging
+☕ Coffee + Music = Better Debugging
 
-🌱 Lifelong learner
+🌱 Lifelong Learner
 
 ---
 
@@ -344,15 +345,15 @@ Naspers AI Challenge
 <p align="center">
 
 <a href="mailto:thabangnormanlesotho@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
 </a>
 
-<a href="https://linkedin.com/in/thabang-norman-lesotho-525024232">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+/in/thabang-norman-lesotho-525024232">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Thabang1203">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+abang1203">
+/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -373,6 +374,6 @@ Naspers AI Challenge
 
 *"Helping people through technology, one solution at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=140&section=footer"/>
+https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=140&section=footer
 
 </div>
