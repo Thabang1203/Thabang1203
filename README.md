@@ -12,7 +12,7 @@
 ### 💻 Service Desk Analyst • Technical Support • AI Enthusiast • BCom Information Systems Graduate
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Service+Desk+Analyst;Technical+Support+Specialist;Zendesk+Support;AI+Bootcamp+Learner;Information+Systems+Graduate;Problem+Solver;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Information+Systems;Service+Desk+Analyst;Technical+Support;Zendesk;AI+Bootcamp;Problem+Solver;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
@@ -71,74 +71,77 @@ I believe great IT support combines:
 
 ---
 
-# 💻 Technical Skills
+
+# 🛠 Skills & Tools
 
 ## 🎧 Service Desk
 
-- Zendesk
-- Ticket Management
-- Ticket Triage
-- SLA Compliance
-- Knowledge Base
-- Macros & Automations
-- Incident Escalation
-- Customer Communication
+<p align="left">
 
----
-
-## 🛠️ Technical Support
-
-- Windows Troubleshooting
-- Software Installation
-- Hardware Support
-- Remote Support
-- Basic Networking
-- Documentation
-- Active Directory (Learning)
-- Microsoft 365 (Learning)
-
----
-
-## 📊 Data Analytics
-
-- SQL
-- Python
-- Power BI
-- Excel
-- Pandas
-- NumPy
-
----
-
-## 🤖 AI
-
-- Prompt Engineering
-- Generative AI
-- AI Automation
-- AI Chatbots
-- AI for Technical Support
-
----
-
-# 🧰 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode"/>
+<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ticket%20Management-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ticket%20Triage-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SLA%20Compliance-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Macros%20%26%20Automations-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Knowledge%20Base-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Customer%20Communication-0A66C2?style=for-the-badge"/>
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk"/>
+## 🖥 Technical Support
 
-<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"/>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/L1%20Troubleshooting-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardware%20Support-0078D4?style=for-the-badge&logo=dell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Support-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Basic%20Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Remote%20Support-0078D4?style=for-the-badge&logo=teamviewer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Incident%20Escalation-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Documentation-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+---
+
+## 📊 Data & Reporting
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 AI & Automation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20for%20IT%20Support-10A37F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-10A37F?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 Professional Strengths
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Meets%20Deadlines-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hungry%20to%20Learn-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coachable-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reliable-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Positive%20Attitude-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Growth%20Mindset-success?style=for-the-badge"/>
 
 </p>
 
@@ -158,9 +161,6 @@ A personal learning dashboard built during the CAPACITI AI Bootcamp.
 - Progress Tracking
 - Topic Completion
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
 
 ---
 
