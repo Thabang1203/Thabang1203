@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="IT Support.png" width="100%" alt="Thabang Norman Lesotho Banner"/>
+
 
 # Hi 👋 I'm Thabang Norman Lesotho
 
-### 💻 Service Desk Analyst • Technical Support • AI Enthusiast • BCom Information Systems Graduate
+### 💻 BCom Information Systems  • Service Desk Analyst • Technical Support • AI Enthusiast  
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Service+Desk+Analyst;Technical+Support+Specialist;Zendesk+Support;AI+Bootcamp+Learner;Information+Systems+Graduate;Problem+Solver;Always+Learning+🚀"/>
