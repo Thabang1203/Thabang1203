@@ -196,7 +196,7 @@ An AI-powered agricultural platform designed to support food security and empowe
 
 # 💼 Experience
 
-## 🎧 Service Desk & AI Bootcamp Intern
+## 🎧 Digital Associate
 
 **CAPACITI / CX Experts**
 
