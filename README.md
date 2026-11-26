@@ -1,173 +1,226 @@
- 
 <div align="center">
 
-# Hi 👋, I'm Thabang Norman Lesotho
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Thabang%20Norman%20Lesotho&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Learning%20%7C%20Building%20%7C%20Growing&descAlignY=58&descSize=17" width="100%" />
 
-### 🎯 Aspiring IT Support Professional | Service Desk | Technical Support | Technology Enthusiast
-
-**I’m not just looking for a job. I’m looking for an opportunity to prove what I can do, keep learning, and build a career through meaningful work.**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+IT+Support+Professional;Service+Desk+%7C+Technical+Support;Azure+Fundamentals+Certified;Curious+Mind.+Practical+Learner.+Problem+Solver.;Ready+for+the+next+opportunity!" alt="Typing SVG" />
+</a>
 
 <p>
-  <a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
-  <a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer">GitHub</a> •
-  <a href="https://preview--persona-forge-615.lovable.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+<a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://preview--persona-forge-615.lovable.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-View-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Thabang1203&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a Bachelor of Commerce graduate in Information Systems from the University of Fort Hare, with a strong interest in IT support, service desk operations, cloud technologies, and solving real-world technical problems.
+🎓 **BCom Information Systems Graduate | Microsoft Certified: Azure Fundamentals**
 
-I enjoy understanding how technology works, identifying problems, and finding practical solutions. I learn best by combining theory with hands-on practice, experimenting with tools, troubleshooting issues, and documenting what I discover.
+I'm an aspiring IT professional with a passion for technology, troubleshooting, and helping people solve technical problems.
 
-I'm continuously developing my technical abilities and looking for an opportunity where I can contribute, learn from experienced professionals, and grow into a dependable IT professional.
+I believe in learning by doing. I enjoy taking what I learn from tutorials, courses, and documentation and turning it into practical experience through experimentation, projects, and hands-on problem-solving.
 
-I may still be building my professional experience, but I bring curiosity, determination, adaptability, and a willingness to take on challenges.
+I'm building my career around IT Support, Service Desk, Application Support, and Cloud Technologies.
 
-## 🚀 Career Focus
+I may still be at the beginning of my professional journey, but I'm not short on ambition, curiosity, or determination. I'm looking for an opportunity to demonstrate my abilities, learn from experienced professionals, and make a meaningful contribution.
 
-I'm working towards building a career in:
+**I'm not waiting for the perfect opportunity to become capable. I'm preparing myself to make the most of the opportunity when it comes.**
 
-- 🖥️ IT Support and Technical Support
-- 🎧 Service Desk and End-User Support
-- 🔧 Application Support and Troubleshooting
-- ☁️ Microsoft Azure and Cloud Support
-- 🔐 IT Operations and User Access Management
-- 📚 Technical Documentation and Knowledge Management
+## 🎯 My Career Direction
 
-## 🛠️ Technical Skills
+<div align="center">
 
-**IT Support & Troubleshooting**
-- First-line technical support concepts
-- Hardware and software troubleshooting
-- Windows operating system fundamentals
-- User account and access management
-- Incident and ticket management
-- Technical documentation and knowledge articles
+| 🖥️ IT Support | 🎧 Service Desk |
+|:---:|:---:|
+| ☁️ Cloud Support | 🔧 Application Support |
+| 🔐 Identity & Access | 📚 IT Operations |
 
-**Cloud & Microsoft Technologies**
-- Microsoft Azure fundamentals
-- Microsoft 365 fundamentals
-- Microsoft Entra ID concepts
-- Cloud computing fundamentals
-- Identity and access management concepts
+</div>
 
-**IT Service Management**
-- Zendesk and ticketing workflows
-- Incident management fundamentals
-- Service request handling
-- Customer service and user communication
-- Knowledge management
-- Process documentation
+## 🛠️ My Technical Toolkit
 
-**Tools & Platforms**
-- Windows
-- Microsoft 365
-- Microsoft Azure
-- Zendesk
-- Visual Studio Code
-- Git and GitHub
+**IT Support & Operating Systems**
 
-## 💡 Projects
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
 
-### 🤖 Click2Fixers AI
-A collaborative AI-powered learning project developed to explore how artificial intelligence can help people access useful information and support.
+**Cloud & Identity**
 
-- Collaborated with a team to develop an AI-powered solution.
-- Contributed to the development and presentation of the project.
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+**IT Service Management & Tools**
+
+<p>
+<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+**Core Competencies**
+
+- Technical troubleshooting and problem-solving
+- First-line support fundamentals
+- Incident and service request management
+- User access and permissions concepts
+- Technical documentation and knowledge sharing
+- Customer service and communication
+
+## 🚀 Projects I've Worked On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 Click2Fixers AI</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20For%20Good-Top%205%20Finalist-success?style=flat-square" />
+</p>
+
+A collaborative AI-powered learning project exploring how artificial intelligence can make useful information and support more accessible.
+
+- Collaborated on an AI solution.
+- Contributed to project development and presentation.
 - Reached the Top 5 in the Naspers Labs AI for Good Challenge.
 
-### 🌱 AgriSense AI
-An AI-powered agricultural concept designed to support smallholder farmers with accessible information and practical guidance.
+</td>
+<td width="50%" valign="top">
 
-- Explored how AI can assist farmers with everyday challenges.
-- Focused on making technology more accessible to agricultural communities.
+<h3 align="center">🌱 AgriSense AI</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Award-People's%20Choice-gold?style=flat-square" />
+</p>
+
+An AI-powered agricultural concept designed to help smallholder farmers access practical guidance and information.
+
+- Explored technology for real-world agricultural challenges.
+- Focused on accessible digital solutions.
 - Received the People's Choice Award.
 
-### 📚 SFIA Study Buddy
-A learning platform designed to make technical learning more interactive and organised.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Built around structured learning and revision.
-- Includes learning notes, flashcards, quizzes, and progress tracking.
-- Designed to support independent learning.
+<h3 align="center">📚 SFIA Study Buddy</h3>
 
-🔗 <a href="https://sfia-study-buddy.lovable.app/" target="_blank" rel="noopener noreferrer">Explore SFIA Study Buddy</a>
+<p align="center">
+<a href="https://sfia-study-buddy.lovable.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live%20Project-Visit%20App-00C7B7?style=flat-square" />
+</a>
+</p>
 
-## 🏆 Achievements
+A learning platform designed to make technical learning more structured and interactive.
 
-- 🥇 Top 5 Finalist — Naspers Labs AI for Good Challenge.
-- 🏆 People's Choice Award — AgriSense AI.
-- 🎓 Microsoft Certified: Azure Fundamentals (AZ-900).
+- Learning notes and revision material.
+- Flashcards and quizzes.
+- Progress tracking.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💡 Always Building</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Continuously%20Learning-blue?style=flat-square" />
+</p>
+
+I enjoy experimenting with new tools, exploring ideas, and building practical projects that help me understand technology better.
+
+My goal is to keep turning curiosity into practical ability.
+
+</td>
+</tr>
+</table>
+
+## 🏆 Achievements & Education
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/University-Fort%20Hare-006633?style=flat-square" />
+<img src="https://img.shields.io/badge/Naspers%20Labs-Top%205%20Finalist-success?style=flat-square" />
+<img src="https://img.shields.io/badge/AgriSense-People's%20Choice-gold?style=flat-square" />
+</p>
+
 - 🎓 Bachelor of Commerce in Information Systems — University of Fort Hare.
-- 👨‍🏫 University tutor with experience supporting more than 30 students.
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900).
+- 📜 Introduction to Big Data Analytics — ORT SA.
+- 🏆 Top 5 Finalist — Naspers Labs AI for Good Challenge.
+- 🥇 People's Choice Award — AgriSense AI.
+- 👨‍🏫 University tutoring experience supporting more than 30 students.
 
 ## 💼 Practical Experience
 
 **Volunteer IT / AV Support — Assumption Parish, Umbilo**
+
 - Set up laptops and projectors for teaching sessions.
 - Configured VLC Media Player for audio playback.
-- Assisted with basic display, cabling, and sound troubleshooting.
+- Assisted with display, cabling, and sound troubleshooting.
 
 **Retail Readiness Programme — Checkers**
-- Gained exposure to retail operations and customer service.
-- Worked in a fast-paced environment requiring teamwork and accuracy.
+
+- Gained experience in customer service and retail operations.
+- Worked in a fast-paced environment requiring accuracy and teamwork.
 - Developed an understanding of order fulfilment and operational processes.
 
 **Systems Design and Implementation Tutor — University of Fort Hare**
+
 - Supported students with their academic learning.
 - Explained technical concepts in a clear and understandable way.
-- Developed communication, patience, and problem-solving skills.
-
-## 📜 Certifications
-
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Introduction to Big Data Analytics — ORT SA
+- Strengthened communication, patience, and problem-solving skills.
 
 ## 📖 Currently Learning
 
-I'm committed to continuous learning and strengthening my technical foundation through:
+I'm continuously strengthening my technical foundation through hands-on learning and practical exercises.
 
-- Windows administration
-- Linux fundamentals
-- Networking and troubleshooting
-- Microsoft 365 administration
-- Application troubleshooting
-- APIs and JSON fundamentals
-- SQL and database fundamentals
-- IT service management practices
+- 🪟 Windows administration
+- 🐧 Linux fundamentals
+- 🌐 Networking and troubleshooting
+- ☁️ Microsoft 365 administration
+- 🔧 Application troubleshooting and log analysis
+- 🔗 APIs and JSON fundamentals
+- 🗄️ Database fundamentals
+- 🎫 IT service management practices
 
-I believe learning should never stop. I use online courses, technical documentation, YouTube tutorials, and hands-on exercises to turn knowledge into practical skills.
+## 🌍 Beyond the Technical Side
 
-## 🌍 A Little More About Me
-
-- 🔍 Naturally curious about how technology works.
-- 🧠 I enjoy learning by doing rather than relying on theory alone.
-- 🤝 I value teamwork, communication, and sharing knowledge.
-- 💪 I believe consistency and determination create opportunities.
-- 🚀 Open to opportunities that allow me to learn, contribute, and grow.
-- 📍 Based in South Africa and willing to relocate.
-
-## 🤝 Let's Connect
-
-I'm open to connecting with recruiters, IT professionals, mentors, and organisations looking for someone who is eager to learn, contribute, and grow.
-
-<p align="center">
-  <a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
-  <br/>
-  <a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer">Explore my GitHub projects</a>
-  <br/>
-  <a href="https://preview--persona-forge-615.lovable.app/" target="_blank" rel="noopener noreferrer">View my portfolio</a>
-</p>
+- 🧠 Curious about how technology works.
+- 🛠️ Prefer practical learning and experimentation.
+- 🤝 Enjoy teamwork and sharing knowledge.
+- 📚 Committed to continuous improvement.
+- 🚀 Open to opportunities that challenge me and help me grow.
+- 📍 Based in South Africa — willing to relocate.
 
 ---
 
 <div align="center">
 
-### 💬 "Your breakthrough opportunity may come from the work you do before anyone gives you a chance."
+## 🤝 Let's Connect!
 
-**I'm learning. I'm building. I'm ready for the next opportunity.**
+I'm open to opportunities in IT Support, Service Desk, Technical Support, Application Support, and Cloud Support.
+
+If you're a recruiter, hiring manager, IT professional, or someone willing to share knowledge and opportunities, I'd be glad to connect.
+
+### Every professional has a starting point. I'm ready to make mine count.
+
+**I'M LEARNING. I'M BUILDING. I'M READY FOR MY BREAKTHROUGH.**
+
+<a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
 
 </div>
