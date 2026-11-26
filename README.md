@@ -39,13 +39,12 @@ I'm at a stage in my career where I'm actively looking for opportunities to turn
 
 I don't believe learning should stop at watching tutorials or collecting certificates. I enjoy getting hands-on, experimenting with technologies, building projects, troubleshooting problems and figuring out how things work.
 
-My interests span across:
+My interests include:
 
 - 🎧 IT Support & Service Desk Operations
 - 🖥️ Systems Administration & Technical Support
 - ☁️ Microsoft Azure & Microsoft 365
 - 🤖 Artificial Intelligence & Automation
-- 📊 Data Analytics & Business Intelligence
 - 🌐 Applications, Networking & Technology
 
 **My mindset:** I may not know everything today, but I am willing to learn, put in the work, ask questions and take responsibility for getting things done.
@@ -64,7 +63,6 @@ I'm building a career around understanding technology and using it to solve real
 | Service Desk | Zendesk, ticket management and customer experience |
 | Systems | Windows, Linux and system administration |
 | Cloud | Microsoft Azure, Entra ID and Microsoft 365 |
-| Data | SQL, Python, Power BI and Excel |
 | AI | Generative AI, prompt engineering and automation |
 
 ---
@@ -100,15 +98,6 @@ I'm building a career around understanding technology and using it to solve real
 <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
 <img src="https://img.shields.io/badge/Microsoft%20Entra-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra"/>
 <img src="https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
-</p>
-
-## 📊 Data & Programming
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
 ## 🤖 AI & Automation
@@ -285,7 +274,7 @@ I don't aim to know everything. I aim to become better at what I do every day.
 
 I'm open to opportunities where I can learn, contribute and grow professionally.
 
-Whether it's IT Support, Service Desk, Technical Support, Cloud, Data or emerging technologies, I'm always interested in connecting with people who are passionate about solving problems through technology.
+Whether it's IT Support, Service Desk, Technical Support, Cloud or emerging technologies, I'm always interested in connecting with people who are passionate about solving problems through technology.
 
 <p align="center">
 <a href="mailto:thabangnormanlesotho@gmail.com" target="_blank" rel="noopener noreferrer">
