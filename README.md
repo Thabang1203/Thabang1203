@@ -1,305 +1,173 @@
-<!-- ========================================================= -->
-<!--             GITHUB PROFILE README                        -->
-<!--             Thabang Norman Lesotho                        -->
-<!-- ========================================================= -->
-
+ 
 <div align="center">
 
-# 👋 Hi, I'm Thabang Norman Lesotho
+# Hi 👋, I'm Thabang Norman Lesotho
 
-### BCom Information Systems Graduate | Aspiring IT Professional | Technical Support | AI Enthusiast
+### 🎯 Aspiring IT Support Professional | Service Desk | Technical Support | Technology Enthusiast
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=26&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Building+My+Future+in+Technology;Turning+Curiosity+Into+Practical+Skills;Learning+By+Doing;Solving+Problems+Through+Technology;Ready+For+My+Next+Opportunity+🚀" alt="Typing animation"/>
+**I’m not just looking for a job. I’m looking for an opportunity to prove what I can do, keep learning, and build a career through meaningful work.**
+
+<p>
+  <a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+  <a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer">GitHub</a> •
+  <a href="https://preview--persona-forge-615.lovable.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 </p>
-
-<p align="center">
-<a href="mailto:thabangnormanlesotho@gmail.com" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Thabang1203&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **BCom Information Systems graduate from the University of Fort Hare**, based in Durban, South Africa, with a genuine passion for technology, problem-solving and continuous growth.
+I'm a Bachelor of Commerce graduate in Information Systems from the University of Fort Hare, with a strong interest in IT support, service desk operations, cloud technologies, and solving real-world technical problems.
 
-I'm at a stage in my career where I'm actively looking for opportunities to turn my knowledge, curiosity and practical experience into meaningful professional contributions.
+I enjoy understanding how technology works, identifying problems, and finding practical solutions. I learn best by combining theory with hands-on practice, experimenting with tools, troubleshooting issues, and documenting what I discover.
 
-I don't believe learning should stop at watching tutorials or collecting certificates. I enjoy getting hands-on, experimenting with technologies, building projects, troubleshooting problems and figuring out how things work.
+I'm continuously developing my technical abilities and looking for an opportunity where I can contribute, learn from experienced professionals, and grow into a dependable IT professional.
 
-My interests include:
+I may still be building my professional experience, but I bring curiosity, determination, adaptability, and a willingness to take on challenges.
 
-- 🎧 IT Support & Service Desk Operations
-- 🖥️ Systems Administration & Technical Support
-- ☁️ Microsoft Azure & Microsoft 365
-- 🤖 Artificial Intelligence & Automation
-- 🌐 Applications, Networking & Technology
+## 🚀 Career Focus
 
-**My mindset:** I may not know everything today, but I am willing to learn, put in the work, ask questions and take responsibility for getting things done.
+I'm working towards building a career in:
 
-I'm looking for that opportunity where I can contribute, grow alongside experienced professionals and prove what I'm capable of.
+- 🖥️ IT Support and Technical Support
+- 🎧 Service Desk and End-User Support
+- 🔧 Application Support and Troubleshooting
+- ☁️ Microsoft Azure and Cloud Support
+- 🔐 IT Operations and User Access Management
+- 📚 Technical Documentation and Knowledge Management
 
----
+## 🛠️ Technical Skills
 
-# 🚀 My Professional Direction
+**IT Support & Troubleshooting**
+- First-line technical support concepts
+- Hardware and software troubleshooting
+- Windows operating system fundamentals
+- User account and access management
+- Incident and ticket management
+- Technical documentation and knowledge articles
 
-I'm building a career around understanding technology and using it to solve real-world problems.
+**Cloud & Microsoft Technologies**
+- Microsoft Azure fundamentals
+- Microsoft 365 fundamentals
+- Microsoft Entra ID concepts
+- Cloud computing fundamentals
+- Identity and access management concepts
 
-| Area | What I'm Developing |
-|---|---|
-| IT Support | Troubleshooting, incident management and user support |
-| Service Desk | Zendesk, ticket management and customer experience |
-| Systems | Windows, Linux and system administration |
-| Cloud | Microsoft Azure, Entra ID and Microsoft 365 |
-| AI | Generative AI, prompt engineering and automation |
+**IT Service Management**
+- Zendesk and ticketing workflows
+- Incident management fundamentals
+- Service request handling
+- Customer service and user communication
+- Knowledge management
+- Process documentation
 
----
+**Tools & Platforms**
+- Windows
+- Microsoft 365
+- Microsoft Azure
+- Zendesk
+- Visual Studio Code
+- Git and GitHub
 
-# 🛠️ Skills & Technologies
+## 💡 Projects
 
-## 🎧 Service Desk & IT Support
+### 🤖 Click2Fixers AI
+A collaborative AI-powered learning project developed to explore how artificial intelligence can help people access useful information and support.
 
-<p align="left">
-<img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk"/>
-<img src="https://img.shields.io/badge/Ticket%20Management-0A66C2?style=for-the-badge" alt="Ticket Management"/>
-<img src="https://img.shields.io/badge/Incident%20Management-0A66C2?style=for-the-badge" alt="Incident Management"/>
-<img src="https://img.shields.io/badge/Customer%20Support-0A66C2?style=for-the-badge" alt="Customer Support"/>
-<img src="https://img.shields.io/badge/Troubleshooting-0A66C2?style=for-the-badge" alt="Troubleshooting"/>
-<img src="https://img.shields.io/badge/Technical%20Documentation-0A66C2?style=for-the-badge" alt="Technical Documentation"/>
-</p>
+- Collaborated with a team to develop an AI-powered solution.
+- Contributed to the development and presentation of the project.
+- Reached the Top 5 in the Naspers Labs AI for Good Challenge.
 
-## 🖥️ Systems & Technical Support
+### 🌱 AgriSense AI
+An AI-powered agricultural concept designed to support smallholder farmers with accessible information and practical guidance.
 
-<p align="left">
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Hardware%20Support-0078D4?style=for-the-badge" alt="Hardware Support"/>
-<img src="https://img.shields.io/badge/Software%20Support-0078D4?style=for-the-badge" alt="Software Support"/>
-<img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge" alt="Networking"/>
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge" alt="Active Directory"/>
-</p>
+- Explored how AI can assist farmers with everyday challenges.
+- Focused on making technology more accessible to agricultural communities.
+- Received the People's Choice Award.
 
-## ☁️ Microsoft & Cloud Technologies
+### 📚 SFIA Study Buddy
+A learning platform designed to make technical learning more interactive and organised.
 
-<p align="left">
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365"/>
-<img src="https://img.shields.io/badge/Microsoft%20Entra-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Entra"/>
-<img src="https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
-</p>
+- Built around structured learning and revision.
+- Includes learning notes, flashcards, quizzes, and progress tracking.
+- Designed to support independent learning.
 
-## 🤖 AI & Automation
+🔗 <a href="https://sfia-study-buddy.lovable.app/" target="_blank" rel="noopener noreferrer">Explore SFIA Study Buddy</a>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Generative%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/AI%20Solutions-10A37F?style=for-the-badge" alt="AI Solutions"/>
-<img src="https://img.shields.io/badge/Automation-10A37F?style=for-the-badge" alt="Automation"/>
-</p>
+## 🏆 Achievements
 
----
+- 🥇 Top 5 Finalist — Naspers Labs AI for Good Challenge.
+- 🏆 People's Choice Award — AgriSense AI.
+- 🎓 Microsoft Certified: Azure Fundamentals (AZ-900).
+- 🎓 Bachelor of Commerce in Information Systems — University of Fort Hare.
+- 👨‍🏫 University tutor with experience supporting more than 30 students.
 
-# 🚀 Projects & Things I've Built
+## 💼 Practical Experience
 
-I believe projects are an important way to turn theoretical knowledge into practical experience. Here are some of the things I've worked on.
+**Volunteer IT / AV Support — Assumption Parish, Umbilo**
+- Set up laptops and projectors for teaching sessions.
+- Configured VLC Media Player for audio playback.
+- Assisted with basic display, cabling, and sound troubleshooting.
 
-## 🤖 Click2Fixers AI Chatbot
+**Retail Readiness Programme — Checkers**
+- Gained exposure to retail operations and customer service.
+- Worked in a fast-paced environment requiring teamwork and accuracy.
+- Developed an understanding of order fulfilment and operational processes.
 
-An AI-powered learning assistant designed to help users navigate learning activities and solve problems through guided interactions.
+**Systems Design and Implementation Tutor — University of Fort Hare**
+- Supported students with their academic learning.
+- Explained technical concepts in a clear and understandable way.
+- Developed communication, patience, and problem-solving skills.
 
-**Highlights:**
-- Interactive conversations
-- Intent matching
-- Guided learning modules
-- Interactive quizzes
-- Offline support
-
-**Technologies:** `HTML` `CSS` `JavaScript` `AI`
-
-🏆 Top 5 Finalist – Naspers Labs AI for Good Challenge.
-
-## 🌱 AgriSense AI
-
-An AI-powered agricultural concept designed to support South African smallholder farmers through accessible agricultural information and technology.
-
-**Highlights:**
-- AI-assisted agricultural guidance
-- Crop and livestock support concepts
-- Smart agriculture solutions
-- Technology for food security
-
-🏆 People's Choice Award Winner.
-
-## 📚 SFIA Study Buddy
-
-A personal learning dashboard designed to make professional development more organised and interactive.
-
-**Highlights:**
-- Learning dashboard
-- Flashcards and quizzes
-- Topic tracking
-- Learning progress
-- Resume learning functionality
-
----
-
-# 💼 Experience
-
-## 🎧 Service Desk & Digital Support Experience
-
-Developing practical exposure to:
-
-- First-line technical support
-- Ticket-based support processes
-- User assistance and troubleshooting
-- Zendesk and customer experience workflows
-- IT service management concepts
-- Technical documentation
-
-## 🛒 Retail Readiness Programme | Checkers
-
-- Developed customer service and communication skills.
-- Gained exposure to retail operations and logistics.
-- Worked with Sixty60 order fulfilment processes.
-- Developed an understanding of stock accuracy and inventory management.
-
-## 🎓 Systems Design & Implementation Tutor | University of Fort Hare
-
-- Supported students in understanding Information Systems concepts.
-- Assisted 30+ students with technical and academic topics.
-- Developed learning resources and explained complex concepts in accessible ways.
-
----
-
-# 🏆 Achievements & Recognition
-
-- 🥇 **People's Choice Award** – AgriSense AI.
-- 🏅 **Top 5 Finalist** – Naspers Labs AI for Good Challenge, Click2Fixers AI.
-- 🎓 **BCom Information Systems** – University of Fort Hare.
-- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900).**
-- 📊 **Victor Daitz Big Data Analytics Programme.**
-- 🤖 **IBM Prompt Engineering Basics.**
-
----
-
-# 📜 Certifications & Professional Development
+## 📜 Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
-- IBM – Prompt Engineering Basics
-- Coursera – Introduction to Artificial Intelligence
-- Victor Daitz Big Data Analytics Programme
-- SFIA Service Operations Practitioner – Learning
+- Introduction to Big Data Analytics — ORT SA
 
----
+## 📖 Currently Learning
 
-# 📖 My Approach to Learning
+I'm committed to continuous learning and strengthening my technical foundation through:
 
-I'm a strong believer in learning by doing.
+- Windows administration
+- Linux fundamentals
+- Networking and troubleshooting
+- Microsoft 365 administration
+- Application troubleshooting
+- APIs and JSON fundamentals
+- SQL and database fundamentals
+- IT service management practices
 
-My approach is simple:
+I believe learning should never stop. I use online courses, technical documentation, YouTube tutorials, and hands-on exercises to turn knowledge into practical skills.
 
-1. **Understand:** Start with the fundamentals through tutorials, documentation and learning resources.
-2. **Explore:** Research how the technology is used in real-world environments.
-3. **Experiment:** Get hands-on, test things and make mistakes.
-4. **Build:** Apply what I've learned through practical projects.
-5. **Improve:** Document my findings, identify knowledge gaps and keep learning.
+## 🌍 A Little More About Me
 
-I don't aim to know everything. I aim to become better at what I do every day.
+- 🔍 Naturally curious about how technology works.
+- 🧠 I enjoy learning by doing rather than relying on theory alone.
+- 🤝 I value teamwork, communication, and sharing knowledge.
+- 💪 I believe consistency and determination create opportunities.
+- 🚀 Open to opportunities that allow me to learn, contribute, and grow.
+- 📍 Based in South Africa and willing to relocate.
 
----
+## 🤝 Let's Connect
 
-# 🌱 Currently Exploring
-
-- Microsoft 365 Administration
-- Microsoft Entra ID
-- Active Directory
-- Windows Server & Linux Administration
-- Networking Fundamentals
-- Application Troubleshooting
-- APIs & JSON
-- Log Analysis
-- ITIL & IT Service Management
-- AI-powered Automation
-
----
-
-# 📊 GitHub Analytics
+I'm open to connecting with recruiters, IT professionals, mentors, and organisations looking for someone who is eager to learn, contribute, and grow.
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thabang1203&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thabang1203&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thabang1203&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Thabang1203&theme=matrix&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-<a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thabang1203&theme=github-dark" alt="GitHub contribution graph"/>
-</a>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Thabang1203/Thabang1203/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
-
----
-
-# 🤝 Let's Connect
-
-I'm open to opportunities where I can learn, contribute and grow professionally.
-
-Whether it's IT Support, Service Desk, Technical Support, Cloud or emerging technologies, I'm always interested in connecting with people who are passionate about solving problems through technology.
-
-<p align="center">
-<a href="mailto:thabangnormanlesotho@gmail.com" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+  <a href="https://linkedin.com/in/thabang-norman-lesotho-525024232" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
+  <br/>
+  <a href="https://github.com/Thabang1203" target="_blank" rel="noopener noreferrer">Explore my GitHub projects</a>
+  <br/>
+  <a href="https://preview--persona-forge-615.lovable.app/" target="_blank" rel="noopener noreferrer">View my portfolio</a>
 </p>
 
 ---
 
 <div align="center">
 
-## 💬 A Little Reminder
+### 💬 "Your breakthrough opportunity may come from the work you do before anyone gives you a chance."
 
-> **"Your breakthrough often begins with the opportunity you are willing to prepare yourself for."**
-
-I'm learning. I'm building. I'm improving.
-
-### And I'm ready for my next opportunity. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=140&section=footer" alt="Footer"/>
+**I'm learning. I'm building. I'm ready for the next opportunity.**
 
 </div>
